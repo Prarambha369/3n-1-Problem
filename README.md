@@ -53,7 +53,7 @@ int main() {
 
 `a = n;`: Updates a with the value of n.
 
-``c++;`: Increments the counter c by 1.
+`c++;`: Increments the counter c by 1.
 
 # Output
     printf("It took %d attempts!", c);
